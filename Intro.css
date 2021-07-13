@@ -3,7 +3,6 @@
 #infoPic {
     display: block;
     border-radius: 50%;
-    border: 500px;
     padding-top: 5px;
     padding-left: 1%;
 }
@@ -42,7 +41,6 @@ div i {
 #main {
     /*make the section behind the Links and Main*/
     background-color: #ffffcc;
-    top: 0;
     height: 100%;
 }
 
