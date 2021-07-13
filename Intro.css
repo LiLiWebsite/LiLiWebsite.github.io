@@ -1,7 +1,7 @@
 /*This is for section with ID "Image"*/
 
-#bot {
-    width: 100%;
+.fill {
+    margin-top: 50%;
 }
 
 #infoPic {
