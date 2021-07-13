@@ -1,14 +1,14 @@
 /*This is for section with ID "Image"*/
 
-.fill {
-    margin-top: 50%;
-}
-
 #infoPic {
     display: block;
     border-radius: 50%;
     padding-top: 5px;
     padding-left: 1%;
+}
+
+.modal {
+    margin-left: 50%;
 }
 
 #image {
