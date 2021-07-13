@@ -82,6 +82,7 @@ div i {
     margin-top: 50px;
     background-color: #ffffcc;
     position: static;
+    height: 100%;
 }
 
 #main div {
